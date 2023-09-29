@@ -1,0 +1,28 @@
+.a{
+    background-color: rgb(255, 136, 0);
+    width: 500px;
+    height: 500px;
+}
+.b{
+    background-color: rgb(43, 252, 43);
+    width: 50%;
+    height: 50%;
+
+}
+p{
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.d{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(17, 147, 253);
+}
+.e{
+    width: 75vw;
+    height: 50%;
+    background-color: red;
+}
